@@ -1,3 +1,57 @@
+/* INTER FONT */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* ROOT */
+:root {
+	/* BASE COLOR */
+	--color-white: #ffffff;
+	/* BASE TRANSPARENT COLOR */
+	--color-transparent-gray: rgba(220, 220, 220, 0.4);
+	--color-transparent-white: rgba(255, 255, 255, 0.4);
+	/* GRAYSCALE COLOR */
+	--color-gray-01: #d1d1d1;
+  	--color-gray-02: #666666;
+  	--color-gray-03: #4d4d4d;
+  	--color-gray-04: #333333;
+ 	--color-gray-05: #1a1a1a;
+	/* BLUE COLOR */
+	--color-blue-01: #e6eff7;
+	--color-blue-02: #99bfdf;
+	--color-blue-03: #0060ae;
+	--color-blue-04: #004d8b;
+	--color-blue-05: #003a68;
+	/* GREEN COLOR */
+	--color-green-01: #D1EAE0;
+	--color-green-02: #67B38F;
+	--color-green-03: #016237;
+	--color-green-04: #014728;
+	--color-green-05: #002D19;
+	/* LIME COLOR */
+	--color-lime-01: #EAF7D0;
+	--color-lime-02: #C1EB7C;
+	--color-lime-03: #8CD50B;
+	--color-lime-04: #5C8C07;
+	--color-lime-05: #2C4203;
+	/* RED COLOR */
+	--color-red-01: #fde5e5;
+	--color-red-02: #f5a3a3;
+	--color-red-03: #b22222;
+	--color-red-04: #8b1a1a;
+	--color-red-05: #641212;
+	/* ORANGE COLOR */
+	--color-orange-01: #fef3c7;
+	--color-orange-02: #fed7aa;
+	--color-orange-03: #f59e0b;
+	--color-orange-04: #d97706;
+	--color-orange-05: #b45309;
+	/* FONT MAIN */
+	--inter-font: "Inter", sans-serif;
+	/* FONT WEIGHT */
+	--font-light: 300;
+	--font-regular: 400;
+	--font-medium: 500;
+	--font-semibold: 600;
+	--font-bold: 700;
+}
 .landing-hero {
 	box-sizing: border-box;
 	background-color: var(--color-white);
