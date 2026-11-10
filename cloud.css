@@ -129,7 +129,7 @@ svg.line {
 }
 .landing-hero {
 	box-sizing: border-box;
-	background-color: var(--color-white);
+	background-color: var(--color-blue-04);
 	background-size: 4rem 4rem;
 	padding: 6rem 8rem;
 	margin: 0;
